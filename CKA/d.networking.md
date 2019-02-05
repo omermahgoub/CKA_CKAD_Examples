@@ -1,0 +1,15 @@
+## Networking - 11%
+- Understand the networking configuration on the cluster nodes.
+- Understand Pod networking concepts.
+- Understand service networking.
+- Deploy and configure network load balancer.
+- Know how to use Ingress rules.
+- Configure secure cluster communications.
+- Configure a HA Kubernetes cluster.
+- Know where to get the Kubernetes release binaries.
+- Provision underlying infrastructure to deploy a Kubernetes cluster.
+- Choose a network solution.
+- Choose your Kubernetes infrastructure configuration.
+- Run end-to-end tests on your cluster.
+- Analyze end-to-end test results.
+- Run Node end-to-end tests.
