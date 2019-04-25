@@ -10,6 +10,7 @@
     <orderEntry type="module" module-name="DevOps" />
     <orderEntry type="module" module-name="Linux" />
     <orderEntry type="module" module-name="Data_Engineering_Notes" />
+    <orderEntry type="module" module-name="GCP" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
